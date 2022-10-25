@@ -1,2 +1,2 @@
 # Assignment
-Mu Zuri Assignment
+MyZuri Assignment
